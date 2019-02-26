@@ -24,4 +24,23 @@ pandas version 0.23.4
   
 The latter method is recommended as it maintains the data in the python environment allowing one to analyse metabolic fluxes directly and make your own figures.
 
-## Index
+## Index:
+-------------------
+. core_model.xml - a model representing primary metabolism in plant cells
+. Gomes2015_Biomass.csv - a text file with Arabidopsis biomass composition gathered from Gomes et al 2015
+. MetabolitesToTransfer.txt - a text file listing metabolites that will be allowed to accumulate over the diel cycle
+. Script1.py - estiamting curve used to calculate CO2 assimilation rate from photosynthetic photon flux density(PPFD) based on data from Donahue et al 1997
+. Script1.ipynb - a jupyter notebok version of Script1.py 
+. Script2.py - generating Figure 3a
+. Script2.ipynb - a jupyter notebok version of Script2.py 
+. Script3.py - generating Figure 3b
+. Script3.ipynb - a jupyter notebok version of Script3.py 
+. Script4.py - generating data for Figure 4
+. Script4.ipynb - a jupyter notebok version of Script4.py 
+. Script5.py - generating Figure 5a and 5b
+. Script5.ipynb - a jupyter notebok version of Script5.py 
+. Script6.py - generating data for Figure 5c
+. Script6.ipynb - a jupyter notebok version of Script6.py 
+. Script7.py - generating data for Figure 5d
+. Script7.ipynb - a jupyter notebok version of Script7.py 
+. studyFunctions - a python module with functions used in scripts 1-7
