@@ -5,7 +5,7 @@ This repository contains scripts used to support our study the role of mitochond
 
 libsbml version 5.17.0  
 pandas version 0.23.4  
-[cobrapy version 0.13.4]: https://github.com/opencobra/cobrapy/releases/tag/0.13.4  
+[cobrapy version 0.13.4](https://github.com/opencobra/cobrapy/releases/tag/0.13.4)
 
 ## Instructions:
 1. Install python version 2, libsbml, pandas and cobrapy
